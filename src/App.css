@@ -6,17 +6,25 @@
 
 .main-body{
   background-color: #416165;
-  background-size: cover;
+  
+  color:white;
   margin: 0;
   height: 100vh;
   font-family: 'Staatliches', cursive;
 }
 
 .main-h1{
-  color:white;
+ 
 }
 
 img{ 
-  width:50%;
+  width:30%;
   border-radius: 10px;
+}
+
+
+.about-body{
+  background-color: #416165;
+  height: 100vh;
+  padding-top: 100px;
 }

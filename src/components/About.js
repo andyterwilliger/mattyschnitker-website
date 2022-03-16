@@ -2,7 +2,7 @@ import { isValidElement } from "react";
 
 function About (){
     return(
-        <div>
+        <div className= 'about-body'>
             <h1>About Me</h1>
         </div>
     )
